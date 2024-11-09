@@ -10,3 +10,8 @@
   }
 
 }
+
+
+  .footer-text {
+    @apply pt-2 pb-2 items-center justify-center text-base text-center align-middle text-white font-bold font-mono;
+  }
